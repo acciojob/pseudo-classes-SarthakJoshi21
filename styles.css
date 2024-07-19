@@ -11,16 +11,19 @@ p:nth-child(4){
 	background-color:white;
 	border-collapse:collapse;
 	font-size:22px;
-	width:50%
+	width:50%;
+	padding:10px;
 }
 .sec{
 	border:1px solid black;
+	padding:10px;
 	width:50%;
 	background-color:grey;
 	border-collapse:collapse;
 }
 .third{
 	border:1px solid black;
+	padding:10px;
 	width:50%;
 	background-color:pink;
 	border-collapse:collapse;
