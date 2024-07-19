@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+p:first-child{
+	background-color:black;
+	color:white;
+}
+p:nth-child(4){
+	color:red;
+}
+.fir{
+	border:1px solid black;
+	background-color:white;
+	border-collapse:collapse;
+}
+.sec{
+	border:1px solid black;
+	background-color:grey;
+	border-collapse:collapse;
+}
+.third{
+	border:1px solid black;
+	background-color:pink;
+	border-collapse:collapse;
+}
+body{
+	background-color:rgb(135, 206, 235);
+	}
